@@ -151,7 +151,7 @@
 
 <li>Can only classify into bug, feature and doc.
 
-<li>Can’t cover issues with multiple labels. For instance, if an issue falls under both bug and enhancement categories, the bot would label it as either one of them depending on the distribution. (Only 2.4% of issues fall under this category)
+<li>Can’t cover issues with multiple labels. For instance, if an issue falls under both bug and enhancement categories, the bot would label it as either one of them depending on the distribution. (Only 2.4% of issues fall under this category).
 
 <li>Recent repository and hasn’t been used much yet.
 </li>
